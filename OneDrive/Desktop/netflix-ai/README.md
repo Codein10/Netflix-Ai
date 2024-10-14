@@ -1,7 +1,8 @@
 # Netflix-Gpt
 - Npm create react app
 - Configure tailwind
-- 
+- Header
+- Login form
 
 
 
@@ -13,7 +14,7 @@ Login/sign up
   -sign in/sign up form
   -redirect browse page
 
-Brouse after authentication
+Browse after authentication
   -header
   -main movie
      -trailer in background
